@@ -13,4 +13,4 @@ python unlocker.py --token-file ~/.config/discord/tokens
 
 Add `--json` if you want to pipe it somewhere else.
 
-<!-- updated: 2026-10-04 -->
+<!-- updated: 2026-10-05 -->
